@@ -9,5 +9,9 @@ public class GitTesting {
 	public void testTwo() {
 		System.out.println("this is second test today");
 	}
+	
+	public void testThree() {
+		System.out.println("this is test number 3");
+	}
 
 }
