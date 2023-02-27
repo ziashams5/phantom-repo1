@@ -7,7 +7,7 @@ public class GitTesting {
 	}
 	
 	public void testTwo() {
-		System.out.println("this is second test");
+		System.out.println("this is second test today");
 	}
 
 }
