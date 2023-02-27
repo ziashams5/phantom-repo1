@@ -16,7 +16,8 @@ public class GitTesting {
 		for (int i=0; i<10;i++) {
 			System.out.println(i);
 		}
-		
+		public void testPull(){
+			System.out.println("this is test number 1 pull");
 	}
 	
 	
